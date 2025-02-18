@@ -1,2 +1,3 @@
 # teardowns
-Documentation and pictures of disassemblies and teardowns.
+This repo contains Documents and pictures related to disassemblies and teardowns.
+
